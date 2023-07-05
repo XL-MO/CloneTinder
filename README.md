@@ -18,7 +18,7 @@ Tinder clone app
 
 ## 🎨 Tela
 
-<img src="./Tela pront.png" alt="tela">
+<img src="./img/Tela pronta.png" alt="tela">
 
 ## 📃 Sobre o projeto
 
