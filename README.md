@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="logo-tinder.png" width="250px"  alt="Tinder-clone-screen">
+  <img src="Tinderlogo.png" width="250px"  alt="Tinder-clone-screen">
 <br>
 <br>
 Tinder clone app
@@ -18,7 +18,7 @@ Tinder clone app
 
 ## 🎨 Tela
 
-<img src="./Tela_inicial.png" alt="tela">
+<img src="./Tela pront.png" alt="tela">
 
 ## 📃 Sobre o projeto
 
