@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="Tinderlogo.png" width="250px"  alt="Tinder-clone-screen">
+  <img src="img/Tinderlogo.jpg" width="250px"  alt="Tinder-clone-screen">
 <br>
 <br>
 Tinder clone app
@@ -37,7 +37,7 @@ Sinta-se livre para dar um fork, ou enviar um pull request, você pode usar este
 
 ### Funcionalidades
 
-- Tela inicial do site do tinder
+- Tela de "match" do site do tinder
 
 ## 🛠 Tecnologias utilizadas
 
